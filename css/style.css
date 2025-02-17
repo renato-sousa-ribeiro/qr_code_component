@@ -29,3 +29,8 @@ img {
   font-family: Outfit;
   text-align: center;
 }
+
+.qr-container__card__img {
+  border-radius: 20px;
+  margin: 0px 0px 24px 0px;
+}
