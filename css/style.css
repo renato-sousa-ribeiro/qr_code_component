@@ -34,3 +34,12 @@ img {
   border-radius: 20px;
   margin: 0px 0px 24px 0px;
 }
+
+.qr-container__card__title {
+  font-size: 1.375rem;
+  line-height: 1.4;
+  font-weight: 700;
+  padding: 0px 16px;
+  margin: 0px 0px 16px 0px;
+  color: #1f314f;
+}
